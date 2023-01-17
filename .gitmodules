@@ -1,0 +1,3 @@
+[submodule "SingaporeStudentPortal-Frontend"]
+	path = SingaporeStudentPortal-Frontend
+	url = https://github.com/WeeMingQing/SingaporeStudentPortal-Frontend.git
