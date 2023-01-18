@@ -7,7 +7,7 @@ Matrix Number: A0233595X
 #This is a portal for students to share their school experiences.
 
 
-The source code for both Frontend and Backend are submodules in the repository.
+The source code for both Frontend and Backend are submodules in the repository:
 
  * Frontend hosted on Netlify:
 Link to Frontend code: [link](https://github.com/WeeMingQing/SingaporeStudentPortal-Frontend)
