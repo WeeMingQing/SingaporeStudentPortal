@@ -16,5 +16,6 @@ Link to Backend code: [link](https://github.com/WeeMingQing/SingaporeStudentPort
 
 
 Working application: [website-link](https://mq-ssp.netlify.app)
-Write-up + User guide: 
+
+Write-up + User guide: /WeeMingQing_A0233595X_FinalWriteup
  
