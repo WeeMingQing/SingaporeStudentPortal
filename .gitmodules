@@ -1,3 +1,6 @@
 [submodule "SingaporeStudentPortal-Frontend"]
 	path = SingaporeStudentPortal-Frontend
 	url = https://github.com/WeeMingQing/SingaporeStudentPortal-Frontend.git
+[submodule "SingaporeStudentPortal-API"]
+	path = SingaporeStudentPortal-API
+	url = https://github.com/WeeMingQing/SingaporeStudentPortal-API.git
